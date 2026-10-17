@@ -1,0 +1,2 @@
+# HTTP client for Ollama, web search, and GitHub API requests.
+requests>=2.31.0
